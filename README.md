@@ -1,1 +1,2 @@
-# lanqing.github.io
+# Website for Lanqing
+# SJTU
